@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlueStyll
 - 👀 I’m interested in coding, reading novels, languages, yoga and so much more!
-- 🌱 I’m currently learning Spanish and JavaScript
+- 🌱 I’m currently learning German and Web development
 - 😄 Pronouns: she/her
 
 <!---
